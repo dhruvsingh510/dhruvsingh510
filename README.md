@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Developer and Machine Learning Enthusiast</h3>
 
 <div align="center">
+  <h3>Connect with me</h3>
   <a href="https://www.linkedin.com/in/dhruvsingh510/">
     <img align="center" target="_blank" alt="Dhruv's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
