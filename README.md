@@ -2,12 +2,8 @@
 <h3 align="center">"Full Stack Developer" and "Machine Learning Enthusiast"</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvsingh510/)](https://www.linkedin.com/in/dhruvsingh510/)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://www.linkedin.com/in/dhruvsingh510/)](mailto:dhruvsingh510@gmail.com)
 
 
 
